@@ -1,0 +1,24 @@
+Bloomberg:
+Apply on the site https://www.bloomberg.com/careers
+
+Problems
+https://gist.github.com/jayant91089/97587cfdbb8de413e59761859295efed
++
+Most frequent questions.
+1- best time to buy and sell stocks
+2- lru cache
+3- copy list with random pointer
+4- min stack
+5- validate binary search tree
+6- sort strings based on new alaphbets
+7- group anagram
+8- detect cycle in array/linkedlist
+9- kth element in array
+10- add 2 numbers as linkedlist
+11- next greater element
+12- sort numbers based on frequency of occurences of the numbers
+13- generate parentheses
+14- longest valid parentheses
+15- flatten a multilevel doubly linked list
+16- https://leetcode.com/discuss/interview-question/124837/Stock-Ticker
+

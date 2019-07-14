@@ -1,0 +1,141 @@
+You can apply on the facebook career or by contacting a recruiter.
+
+Facebook recruiters: 
+Lucy Kemp lucykemp@fb.com
+Claire Betts cbetts@fb.com
+
+Some of the asked problems:
+2018/2019
+1- Trapping rain water
+2- check if array is sorted based on a new sorting order
+3- flatten doubly linked list
+4- monotonic array
+5- minimum window substring
+6- find max peak 
+7- flatten binary tree to linkedlist
+8- lowest common ancestor in binary tree
+9- alien dictionary
+10- bipartite graph
+11- Minimum Number of Arrows to Burst Balloons
+12- Populating Next Right Pointers in Each Node
+13- Basic Calculator II
+14- Add binary
+15- Intersection of Two Arrays II
+16- Wildcard Matching
+17- Binary Search Tree Iterator
+18- merge k sorted array
+19- Maximum Size Subarray Sum Equals k
+20- Distribute Coins in Binary Tree
+21- Product of Array Except Self
+22- sort an array which have k sorted parts (awl 7ga 7tgib elagz2 deh w b3din 7tet7wl m3k l merge k sorted arrays)
+23- 3ndk task 3yz t3mlha w task deh mo3tmda 3la shwyt tasks tanin w eltasks eltanin mo3tmdin 3la tasks tania w 
+7kaza w b3din kol task bet5od execution time 3obra 3n eltime bet3ha z2d eltime bet3 kol eltasks ely bt3dmed 3lihom 
+saw2 children aw children of children elmohm y3ni enta 7t3ml dfs mn awl elroot l8it mtwsl l leaves ely msh mo3tmdin
+3la 7d w b3d kda kol leave 7tl3 egbtha leli fo2iha and so on l8it mtgib eltotal time bet3 elroot)
+24- word ladder
+25- find successor of a node in tree ( each node has a left, right and parent pointer).
+26- Sampling resevoir
+27- Random Pick with Weight
+
+Top interview questions on leetcode 
++ 
+the following problems
+
+1- Regular Expression matching.
+2- Decode ways
+3- Integer to English words.
+4- remove minimum number of parentheses to make expression balanced. ex: "))())" return -> "()"
+5- Maximum Size Subarray Sum Equals k.
+6- expression add operators. 
+
+Total 89 problems
+     
+  	283 	/*** Move Zeroes 	48.2% 	Easy 	  (High Frequency)/***
+	325 	Maximum Size Subarray Sum Equals k 	41.7% 	Medium 	
+	301 	Remove Invalid Parentheses 	34.8% 	Hard 	
+	311 	Sparse Matrix Multiplication 	50.8% 	Medium 	
+	314 	Binary Tree Vertical Order Traversal 	35.9% 	Medium 	
+	67 	    Add Binary 	30.8% 	Easy 	
+	273 	Integer to English Words 	21.3% 	Hard 	
+	278 	First Bad Version 	24.5% 	Easy //*	
+	17 	    Letter Combinations of a Phone Number 	32.8% 	Medium 	
+	253 	Meeting Rooms II 	38.5% 	Medium 	
+	91 	    Decode Ways 	19.0% 	Medium 	
+	10 	    Regular Expression Matching 	23.7% 	Hard 	
+	15 	    3Sum 	21.1% 	Medium 	
+	297 	Serialize and Deserialize Binary Tree 	32.1% 	Hard ###	
+	158 	Read N Characters Given Read4 II - Call multiple times 	24.4% 	Hard 	###
+	277 	Find the Celebrity 	35.4% 	Medium 	
+	282 	Expression Add Operators 	28.8% 	Hard 	
+	200 	Number of Islands 	32.8% 	Medium 	
+	76 	    Minimum Window Substring 	24.1% 	Hard 	
+	161 	One Edit Distance 	30.6% 	Medium 	
+	157 	Read N Characters Given Read4 	29.2% 	Easy ###	
+	257 	Binary Tree Paths 	35.6% 	Easy 	
+	23 	    Merge k Sorted Lists 	26.2% 	Hard 	
+	285 	Inorder Successor in BST 	36.1% 	Medium 	
+	211 	Add and Search Word - Data structure design 	20.6% 	Medium 	// 3 cases in the dfs Fn~
+	341 	Flatten Nested List Iterator 	39.3% 	Medium 	
+	56 	    Merge Intervals 	28.7% 	Medium 	
+	121 	Best Time to Buy and Sell Stock 	39.5% 	Easy 	
+	1 	    Two Sum 	30.8% 	Easy 	
+	139 	Word Break 	28.6% 	Medium 	
+	173 	Binary Search Tree Iterator 	39.5% 	Medium 	
+	75 	    Sort Colors 	36.9% 	Medium 	
+	125 	Valid Palindrome 	25.5% 	Easy 	
+	78 	    Subsets 	37.4% 	Medium 	
+	98 	    Validate Binary Search Tree 	22.5% 	Medium 	
+	206 	Reverse Linked List 	43.9% 	Easy 	
+	43 	    Multiply Strings 	26.1% 	Medium 	
+	252 	Meeting Rooms 	45.8% 	Easy 	
+	133 	Clone Graph 	25.0% 	Medium 	// Don't forget to visit after polling from queue, and don't forget to add the edges even if the node is visited.
+	236 	Lowest Common Ancestor of a Binary Tree 	29.4% 	Medium 	
+	218 	The Skyline Problem 	25.9% 	Hard 	###
+	238 	Product of Array Except Self 	47.5% 	Medium 	
+	49 	    Group Anagrams 	32.3% 	Medium 	
+	215 	Kth Largest Element in an Array 	37.9% 	Medium 	
+	79 	    Word Search 	25.6% 	Medium 	
+	38 	    Count and Say 	32.9% 	Easy 	
+	209 	Minimum Size Subarray Sum 	29.0% 	Medium 	
+	57 	    Insert Interval 	26.6% 	Hard 	
+	494 	Target Sum 	44.6% 	Medium 	
+	380 	Insert Delete GetRandom O(1) 	38.6% 	Medium 	###
+	13 	    Roman to Integer 	44.0% 	Easy ###
+	71 	    Simplify Path 	24.2% 	Medium 	###
+	146 	LRU Cache 	16.3% 	Hard  ###	
+	208 	Implement Trie (Prefix Tree) 	26.1% 	Medium 	
+	33 	    Search in Rotated Sorted Array 	32.1% 	Medium 	
+	377 	Combination Sum IV 	41.5% 	Medium 	
+	90 	    Subsets II 	34.3% 	Medium 	
+	44 	    Wildcard Matching 	19.2% 	Hard 	
+	128 	Longest Consecutive Sequence 	35.6% 	Hard 	###
+	88 	    Merge Sorted Array 	31.5% 	Easy 	
+	102 	Binary Tree Level Order Traversal 	37.5% 	Medium 	
+	28 	    Implement strStr() 	27.2% 	Easy 	
+	334 	Increasing Triplet Subsequence 	38.0% 	Medium 	###
+	398 	Random Pick Index 	40.7% 	Medium 	###
+	50 	    Pow(x, n) 	26.9% 	Medium 	
+	127 	Word Ladder 	19.2% 	Medium 	
+	269 	Alien Dictionary 	22.1% 	Hard 	
+	20 	    Valid Parentheses 	32.4% 	Easy 	
+	286 	Walls and Gates 	42.9% 	Medium 	
+	235 	Lowest Common Ancestor of a Binary Search Tree 	38.3% 	Easy 	
+	69 	    Sqrt(x) 	27.1% 	Easy 	
+	117 	Populating Next Right Pointers in Each Node II 	33.6% 	Medium 	
+	68 	    Text Justification 	18.3% 	Hard 	###
+	221 	Maximal Square 	27.4% 	Medium 	
+	274 	H-Index 	32.3% 	Medium 	
+	85 	    Maximal Rectangle 	26.4% 	Hard 	###
+	210 	Course Schedule II 	26.0% 	Medium 	
+	234 	Palindrome Linked List 	31.8% 	Easy 	
+	25 	    Reverse Nodes in k-Group 	29.9% 	Hard 	
+	477 	Total Hamming Distance 	45.9% 	Medium 	###
+	461 	Hamming Distance 	71.0% 	Easy 	###
+	410 	Split Array Largest Sum 	33.5% 	Hard ### 	
+	404 	Sum of Left Leaves 	46.0% 	Easy 	
+	275 	H-Index II 	33.7% 	Medium 	
+	265 	Paint House II 	37.4% 	Hard 	###
+	261 	Graph Valid Tree 	36.8% 	Medium 	
+	168 	Excel Sheet Column Title 	24.7% 	Easy 	
+	80 	    Remove Duplicates from Sorted Array II 	35.1% 	Medium 	
+	26 	    Remove Duplicates from Sorted Array 	35.4% 	Easy  (Low frequency)

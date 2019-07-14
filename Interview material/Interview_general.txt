@@ -1,0 +1,112 @@
+Your interviewer wants to know about you problem solving, coding, testing, debugging, technical 
+and social communication skills.
+
+Steps of the interview:
+1- Understand the problem:
+	a- Read the problem carefully and make sure that you understand it very well. Feel free to ask for clarification.
+	b- If you don’t understand the problem ask for a simple example.
+	   If you understand the problem, try to provide a simple example and it’s answer so you can figure the pattern.
+	c- Make sure that the data types of the inputs are well defined (int ? long long? Adjacency list ? Adjacency matrix ? .. etc)
+	d- If no input range is provided then ask about it (0 <= n<= 1000).
+	f- You should ask for clarification questions even if the problem is very easy so that the interviewer can assess your skills.
+
+2- Solving the problem:
+	a- If you have a brute force non optimal solution then describe it very well and show it’s time/space complexity.
+	   You don’t have to write it’s code now but you might need it later.
+	   You should say what’s bad about it. time or space for example.
+	b- Now try to think of a better solution. Think loudly and make sure your interviewer understand what you are thinking of. 
+	   This will help him give you a helpful hint if you got stuck.
+	c- If you got stuck here for more than 10 min then ask for a small hint 
+	   (Most likely he will give you a hint without asking) and try again for 5 more min.
+	d- If you have a solution then say it clearly and ask your interviewer if he wants you to implement it or think of another solution. Discuss it’s time and space.
+	e- Worst case: No solution, No Hint then start implementing the brute force solution in step 1 and say that you are going to implement it before you start as this 
+	   might motivate your interviewer to give you more hints.
+	f- If you have in mind many solutions then talk about them even you are not sure if they are correct just talk and discuss your interviewer about them.
+
+3- Coding the problem:
+	a- Ask your interviewer if you should validate the inputs. Say these words “I know in real life every input to any function should be validated to have a correct value but as our time here is limited i will not validate the inputs is that OK?”.
+	b- Almost every function has input validation in real life so this is a very important point. Most likely he will say “Yes it’s OK, assume they are correct” but he will record a very +ve point here.
+	c- Write your code in functions and use helper functions. A good practice is to have a big function (which solves the problem) that calls smaller helper function. Implement the big one first then the helpers.
+	d- When you start naming your variables and parameters and functions. You should say these words. 
+	   “I know naming variables and parameters and functions should follow a consistent style and the names should be more descriptive and well commented in real life but to make best use of time i will use short names like n, i, j, .. etc. Is that OK?”. 
+	   Most likely he will say OK no problem but he will record a very +ve point here.
+	e- Now write your code and make it very organized and explain it while writing.
+
+4- Testing the solution:
+	a- Test using simple inputs and trace your code for bugs.
+	b- Test using edge cases (Too big, Too small inputs, etc).
+	
+5- Debuging the solution:
+	a- If your testing shows that your solution has a bug and you fixed it then this is very good.
+	b- One trick that some people do (Which i don’t recommend but it’s not very bad) is that you put a bug intentionally while coding and act as if you discovered it while testing and debugging.
+
+6- Last part:
+	a- After asking one or more questions, the interviewer will ask you if you have any questions for him.
+	b- You must ask him some questions. Never say “I have no questions”.
+	c- Ask him about his team, office .. etc.
+
+7- General notes:
+	a- You should be familiar with you cv and able to respond to any questions related to it or to any project you have listed in it.
+	   You should be able to describe any project with details and how you have implemented it, any design you have used, problems you have faced, .. etc.
+	b- Some interview may contains some questions related to your favourite programming language and how it is working,
+	   so you should be very familiar with the language which you have chosen.
+	c- Also you may find some design question to assert you oop knowledge (rarely design pattern) like inheritance, polymorphism, aggregation, .. etc.
+
+General material for the interviews:
+You should begin with cracking the code interview first 5 chapters and the oop desgin chapter.
+and then move to solve problems on leetcode or similar website. You can filter problems by topics or difficulty.
+
+Important ideas that you should be familiar with:
+
+1- Comparable/Comparator and diff between them
+https://www.geeksforgeeks.org/comparable-vs-comparator-in-java/
+
+2- Union find with path compression (important) and union by rank(not necessary) used mainly in solving connected components and detect cycle in an undirected graph
+https://www.geeksforgeeks.org/union-find-algorithm-set-2-union-by-rank/ 
+
+3- Tree traversal inorder, postorder, preorder and level order. 
+(should revise pre and inorder traversal iterative solution). 
+
+4- Linked list ideas to revise.
+	a- fast and slow pointers.
+	b- dummyHead before head to simplify corner cases.
+	c- list cycle and find the begin of the cycle in a linkedlist (cracking last problem).
+	d- https://leetcode.com/problems/reverse-linked-list-ii/description/ 
+	
+5- Priority queue ideas to revise.
+	a- sort k sorted listed idea.
+	https://leetcode.com/problems/merge-k-sorted-lists/discuss/170047/Java-O(log(k)*k*n)-Solution-using-Priority-Queue
+	b- top k frequent elements idea.
+	https://leetcode.com/problems/top-k-frequent-elements/discuss/166579/7-lines-JAVA-solution-using-PriorityQueue
+	c- K smallest element in a priority queue.
+	https://leetcode.com/problems/kth-largest-element-in-an-array/discuss/169498/Java-PriorityQueue
+	d- implement heapify.
+	e- implement build heap in O(n).
+	
+6- Tree properties.
+https://www.geeksforgeeks.org/binary-tree-set-2-properties/
+
+7- Trie data structure used for autocomplete and spelling check.
+https://leetcode.com/problems/implement-trie-prefix-tree/solution/
+
+8- bit manipulation main tricks.
+https://stackoverflow.com/questions/47981/how-do-you-set-clear-and-toggle-a-single-bit
+
+9- LRU cache problem.
+	a- linkedHashMap 
+		follow up: implement linkedHashMap.
+		https://leetcode.com/problems/lru-cache/discuss/168111/Java-solution-using-Hashmap-and-Doubly-LinkedList
+		
+10- stack ideas to check.
+	a- https://leetcode.com/problems/largest-rectangle-in-histogram/discuss/28900/O(n)-stack-based-JAVA-solution 
+	b- https://leetcode.com/problems/remove-duplicate-letters/discuss/76769/Java-solution-using-Stack-with-comments
+	c- https://leetcode.com/problems/trapping-rain-water/ (or the 2 pointers solution).
+	
+11- Queue and Dequeue.
+	
+12- Dfs and Bfs implementation.
+
+13- Hashing techniques with closed and open addresing and how to handle collisions.
+
+14- Merge, quick sort, and quick select.
+

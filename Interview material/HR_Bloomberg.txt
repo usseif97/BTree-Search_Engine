@@ -1,0 +1,189 @@
+What do you know about Blomberg R&D team?
+=====================================================
+As I understood from my research, R&D can be considered the technological heart and soul of Bloomberg.
+They're basically in charge of all technological aspects of Bloomberg's work.
+In particular, It's is a global team of more than 3,000 software engineers
+responsible for creating the worldÕs premiere source for real-time and historical financial market data and analytics. 
+We provide mobile applications, real-time data analytics, trading platforms news and information to the worlds leading financial market participants. 
+
+what do you know about Bloomberg
+==================================
+Bloomberg is a financial data vendor that provides professionals in finance with all the data they need in real time along with news, analytics and every thing they need in order to make informed business decisions.
+the company provides data, news and analytics to decision makers in industries beyond finance.
+provides financial data for companies to make informed descisions. every one sees the same data at the same time. 
+
+The core product of bloomberg is the bloomberg terminal which is a fantastic technological platform that delivers comprehensive financial information and provides people in finance with all the real time data they need, news even a chat system all in one place.
+no one firm that has the entire large-scale finance community online and together in one place.
+
+Why Bloomberg
+================
+Interning at bloomberg would be a great opportunity for me to grow as a software engineer,
+writing software that is actually used everyday by finance professionals seems like a very 
+interesting thing to do,
+bloomberg has alot of project in almost all of cs fields, you could be working on a new function 
+for the terminal,
+writing software libraries for other engineers to use and many other that id like to contribute 
+to.
+
+-My passion for data-driven engineering and machine learning, even if i didn't work on that topic 
+- Impact, real products, real users
+- Open and non-restrictive hierarchy culture, a rare thing in the industry.
+- Largest/Most-successful/Global of its kind.
+- The Pioneer in a lot of things: using computers in exchanging info, 
+- Transparency and Integrity: it's really easy to fall to pieces in the financial market.
+ 
+whatever you are working on, knowing that the products you build will be 
+used by financial professionals around the world is definitely something great.
+
+i want to see how the work is done behind the scenes how does the terminal work and
+how data is imported/extracted presented.
+
+You will get to build products that thousands of finance professionals actually use on a daily basis, which is great. When things work great, or when things break, you will hear about it firsthand. Project cycles are very fast, so if you're concerned about building a huge piece of software that doesn't really get to see the light of day (think many Google products), that will not happen at Bloomberg.
+
+bloomberg terminal aout 330,000
+thomson reuters about 77,000
+
+who uses bloombeg
+==================
+Overall, the idea of a corporation having a Bloomberg is to not be taken advantage of. Lots of 
+banks look at corporations in the same way airport currency-changers look at a first-time 
+tourist. Corporations have lots of cash, lots of transactions to do, and little competitive 
+advantage in doing them, compared to the other types banks interact with like hedge funds and 
+investment firms. This isn't any indictment of corporations. After all, their primary business is 
+moving people in pressurized aluminum tubes, or marketing soda, not moving money around. 
+
+Bloomberg levels the playing field, and allows a corporation to shop its business around. Rather 
+than calling one broker to get a quote on a transaction, they can see exactly where the market 
+is, and transact accordingly. 
+
+The value for a non-financial corporation falls into three main categories: Risk Management, 
+Investor Relations, and Cash/Pension/Treasury Management. 
+
+Risk Management: Having a Bloomberg Terminal can help manage three different types of risk
+Commodity Risk includes the aforementioned oil price risk, which a company like Lufthansa is most 
+concerned about. It also includes agricultural products like sugar and corn which impact Coke's 
+costs in a major way.
+Interest Rate Risk includes mismatches in income and obligations. Lots of cash management is done 
+at extremely short durations, whereas debt is issued at longer terms. Sometimes one side of this 
+is based on floating interest rates and the other on fixed. These mismatches create a huge 
+liability.
+Foreign Exchange Risk is the risk inherent of having revenues and costs in different currencies. 
+Coca Cola makes revenue in every currency under the sun, but at some point, once it has covered 
+its local costs, it's going to have to convert that profit back to USD. 
+
+In Investor Relations, companies can track their performance relative to competitors, changes in 
+holdings (who owns their stock), news tied to their company, etc. Most importantly, they can see 
+what the buyside (investor) sees.
+
+Lastly, the cash management piece is about tracking money that corporations have on hand to 
+conduct their day-to-day business, like making payroll, etc. That cash never sits in a bank. It's 
+almost always kept in short-term, highly liquid securities and money market funds so the company 
+earns some interest. Some companies also have pension funds for their employees, in which case a 
+team of investors operates what amounts to an internal mutual fund.
+
+-----------------------------------------------------------------------------------------------------
+
+IRole
+
+As a Software Development at Bloomberg you will explore exciting aspects of the intersection of finance and technology. 
+Bloomberg will give you an opportunity to explore many areas of software development; 
+real-time financial information servers, trading systems, data analytics tools, mobile applications and live news feeds are just a few of the areas
+we specialise in. 
+You will also have the opportunity to shadow other parts of our business to learn more about Bloomberg and the financial markets. 
+We will provide you with financial training, CV writing and interview training, 
+a selection of philanthropy activities, and informative excursions.
+
+As an intern, you will join a team that owns all phases of the development life-cycle for some of Bloomberg's premier products 
+where they will be given real world assignments. 
+Summer Interns are given the chance to learn more about Bloomberg while taking part in our software development efforts. 
+All interns receive classroom and on-the-job training to help enhance their programming skills and to instill a working familiarity with Bloomberg's systems.
+
+Previous projects have included projects in Financial Applications, 
+Infrastructure Development, and Application Development on the Bloomberg Terminal (non-Financial, e.g News and Messaging), among others.
+
+
+Bloomberg, the global business and financial information and news leader, 
+gives influential decision makers a critical edge by connecting them to a dynamic network of information, people and ideas. 
+The company's strength delivering data, news and analytics through innovative technology, quickly and accurately is at the core of the Bloomberg 
+Professional service, which provides real time financial information to more than 315,000 subscribers globally. 
+Bloomberg's enterprise solutions build on the company's core strength, leveraging technology to allow customers to access, integrate, 
+distribute and manage data and information across organizations more efficiently and effectively. 
+Through Bloomberg Law, Bloomberg Government, Bloomberg New Energy Finance and Bloomberg BNA, 
+the company provides data, news and analytics to decision makers in industries beyond finance. And Bloomberg News, 
+delivered through the Bloomberg Professional service, television, radio, mobile, the Internet and three magazines, Bloomberg Businessweek, 
+Bloomberg Markets and Bloomberg Pursuits, covers the world with more than 2,400 news and multimedia professionals at more than 150 bureaus in 73 countries. 
+Headquartered in New York, Bloomberg employs more than 15,000 people in 192 locations around the world.
+
+
+
+Bloomberg Values
+Our unique culture is defined by eight values that underscore our commitment to bringing transparency to the markets with exceptional customer service, collaboration, openness, and creativity.
+
+Know the customer
+Work hard
+Be bold
+Move fast and thoroughly
+Learn from mistakes
+Collaboration
+Lead by example
+Do the right thing
+
+____________________________________________________________________________________________________________________________________
+
+How would you define success in this role ? What would be the key indicators to you that you had hired the right person?     
+
+What New Skills Can I Hope to Learn Here ?
+
+What Can I Help to Clarify That Would Make Hiring Me an Easy Decision?
+
+What Concerns/Reservations Do You Have About Me for This Position?
+
+Who's Your Ideal Candidate And How Can I Make Myself More Like Them?
+
+What Will a Typical Workday Be Like?
+
+What type of work i would be doing?
+
+What aspects of working here excite you the most?
+
+How will you evaluate my performance?
+
+How Often Do You Hire Interns for Full-time Jobs?
+
+what projects do interns work on
+
+what can i learn to make the most out of my internship 
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+*Why intern/work in Bloomberg?
+Oh, there are a lot of reasons that make me want to work in Bloomberg:
+- Description of the internship in the site (Specialities + Financial Training + personal/career growth)
+- My passion for data-driven engineering and machine learning, even if i didn't work on that topic (All my other intenship applications were for institutions that value data and work on them)
+- Impact, real products, real users, last interview Nick and derivatives.
+- Open and non-restrictive hierarchy culture, a rare thing in the industry.
+- Largest/Most-successful/Global of its kind.
+- The Pioneer in a lot of things: using computers in exchanging info, 
+- Transparency and Integrity: it's really easy to fall to pieces in the financial market.
+
+*What do you know about Blomberg R&D team?
+As I understood from my research, R&D can be considered the technological heart and soul of Bloomberg.
+They're basically in charge of all technological aspects of Bloomberg's work.
+In particular, It's is a global team of more than 3,000 software engineers
+responsible for creating the worldÕs premiere source for real-time and historical financial market data and analytics. 
+We provide mobile applications, real-time data analytics, trading platforms news and information to the world's leading financial market participants. 
+
+*What do you know about Bloomberg?
+
+- Bloomberg, the global business and financial information and news leader, 
+gives influential decision makers a critical edge by connecting them to a dynamic network of information, people and ideas. 
+The company's strength delivering data, news and analytics through innovative technology, quickly and accurately is at the core of the Bloomberg 
+Professional service, which provides real time financial information to more than 315,000 subscribers globally. 
+Bloomberg's enterprise solutions build on the company's core strength, leveraging technology to allow customers to access, integrate, 
+distribute and manage data and information across organizations more efficiently and effectively. 
+Through Bloomberg Law, Bloomberg Government, Bloomberg New Energy Finance and Bloomberg BNA, 
+the company provides data, news and analytics to decision makers in industries beyond finance. And Bloomberg News, 
+delivered through the Bloomberg Professional service, television, radio, mobile, the Internet and three magazines, Bloomberg Businessweek, 
+Bloomberg Markets and Bloomberg Pursuits, covers the world with more than 2,400 news and multimedia professionals at more than 150 bureaus in 73 countries. 
+Headquartered in New York, Bloomberg employs more than 15,000 people in 192 locations around the world.
